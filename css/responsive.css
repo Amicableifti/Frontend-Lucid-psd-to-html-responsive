@@ -22,7 +22,7 @@
 }
 @media only screen and (max-width: 991px)
 {
-	banner-contents h1 {
+    banner-contents h1 {
 
     font-size: 34px;
 
@@ -165,7 +165,7 @@
 /*----------------------------------767----------------------------*/
 @media only screen and (max-width: 767px)
 {
-	.banner-contents {
+    .banner-contents {
 
     text-align: center;
 
@@ -271,7 +271,7 @@
 /*----------------------------------575----------------------------*/
 @media only screen and (max-width: 575px)
 {
-	.banner-contents h3 {
+    .banner-contents h3 {
 
     padding-bottom: 13px;
 
@@ -566,13 +566,17 @@ padding-top: 8px;
 
 .contact p {
 
-    font-size: 14px;
+font-size: 12px;
 
-    color: #9999;
+color: #9999;
 
-    margin: 0px;
-    padding-bottom: 8px
+margin: 0px;
 
+padding-bottom: 8px;
+
+padding-right: 0px;
+
+padding-left: 0px;
 }
 .contact span {
 
